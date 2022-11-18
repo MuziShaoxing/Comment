@@ -1,5 +1,8 @@
 {
   "origins": [
-    "http://localhost:4000"
+    "http://localhost:4000",
+    "blog.少星.icu",
+    "https://shaoxing.netlify.app",
+    "https://shaoxing.vercel.app"
   ]
 }
